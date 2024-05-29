@@ -1,6 +1,7 @@
 
 % Simulação desenvolvida para a disciplina TP547 - Princípios de Simulação de
 % Sistemas de Comunicação do curso de Mestrado do Inatel
+% Hyago Vieira Lemes Barbosa Silva 922
 % Igor Gonçalves de Souza 931
 
 % Performance Analysis of Full-Duplex Cooperative Communication in Vehicular
